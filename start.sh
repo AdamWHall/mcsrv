@@ -1,6 +1,7 @@
 #!/bin/bash
 # -----------------------------------------------------------------------------
-# minecraft /start.sh scripts
+# minecraft /start.sh script
+# Remove from line 17-20 for enabling #Defaut :"online-mode=true"
 # -----------------------------------------------------------------------------
 
 if [ ! -f /srv/server.jar ]

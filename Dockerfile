@@ -1,7 +1,7 @@
 FROM ubuntu:20.04
 
 LABEL maintainer="Adam Hall" \
-      name="Secton8 MineCraft Server" \
+      name="MineCraft Server" \
       version="1.0"
 
 #set env variable
