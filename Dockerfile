@@ -4,7 +4,7 @@ LABEL maintainer="Adam Hall" \
       name="Secton8 MineCraft Server" \
       version="1.0"
 
-#set env variables
+#set env variable
 ENV DEBIAN_FRONTEND noninteractive
 
 # Install packages

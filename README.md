@@ -1,3 +1,3 @@
 # mcsrv
-Minecraft docker Container
-version 1
+Minecraft Docker Container
+Version 1
