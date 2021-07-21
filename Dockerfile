@@ -13,6 +13,7 @@ RUN apt update -y \
     && apt install -y \
         openjdk-8-jre-headless \
         wget \
+        nano \
     && apt-get clean autoclean \
     && apt-get autoremove -y \
     && rm -rf /var/lib/apt/lists/*
