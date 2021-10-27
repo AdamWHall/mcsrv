@@ -16,7 +16,7 @@ fi
 
 if [ ! -f /srv/server.properties ]
 then
-    echo "online-mode=fales" > /srv/server.properties
+    echo "online-mode=false" > /srv/server.properties
 fi
 
 cd /srv/ && java -Xms1024M -Xmx1024M -jar server.jar nogui
